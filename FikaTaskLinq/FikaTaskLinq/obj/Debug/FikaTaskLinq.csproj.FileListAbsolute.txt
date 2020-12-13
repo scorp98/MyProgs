@@ -1,0 +1,14 @@
+C:\Users\hmammadov\source\repos\FikaTaskLinq\FikaTaskLinq\bin\Debug\FikaTaskLinq.exe.config
+C:\Users\hmammadov\source\repos\FikaTaskLinq\FikaTaskLinq\bin\Debug\FikaTaskLinq.exe
+C:\Users\hmammadov\source\repos\FikaTaskLinq\FikaTaskLinq\bin\Debug\FikaTaskLinq.pdb
+C:\Users\hmammadov\source\repos\FikaTaskLinq\FikaTaskLinq\obj\Debug\FikaTaskLinq.csprojAssemblyReference.cache
+C:\Users\hmammadov\source\repos\FikaTaskLinq\FikaTaskLinq\obj\Debug\FikaTaskLinq.exe
+C:\Users\hmammadov\source\repos\FikaTaskLinq\FikaTaskLinq\obj\Debug\FikaTaskLinq.pdb
+C:\Users\hmammadov\source\repos\FikaTaskLinq\FikaTaskLinq\obj\Debug\FikaTaskLinq.csproj.CoreCompileInputs.cache
+D:\VSC#\source\repos\FikaTaskLinq\FikaTaskLinq\bin\Debug\FikaTaskLinq.exe.config
+D:\VSC#\source\repos\FikaTaskLinq\FikaTaskLinq\bin\Debug\FikaTaskLinq.exe
+D:\VSC#\source\repos\FikaTaskLinq\FikaTaskLinq\bin\Debug\FikaTaskLinq.pdb
+D:\VSC#\source\repos\FikaTaskLinq\FikaTaskLinq\obj\Debug\FikaTaskLinq.csprojAssemblyReference.cache
+D:\VSC#\source\repos\FikaTaskLinq\FikaTaskLinq\obj\Debug\FikaTaskLinq.csproj.CoreCompileInputs.cache
+D:\VSC#\source\repos\FikaTaskLinq\FikaTaskLinq\obj\Debug\FikaTaskLinq.exe
+D:\VSC#\source\repos\FikaTaskLinq\FikaTaskLinq\obj\Debug\FikaTaskLinq.pdb
